@@ -24,7 +24,7 @@ app.get("/", (req, res) => {
 });
 
 mongoose.connect(
-  "mongodb+srv://bhavyapopli2003:R4etVijGdzVSQ9pw@bhavya.8bzk9im.mongodb.net/Socialmedia",
+  "Khudka URl DAAL LE",
   {
     bufferCommands: false,
     useNewUrlParser: true,
