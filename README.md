@@ -1,6 +1,6 @@
 # Author
 
-Bhavya Popli [@BhavyaPopli](https://github.com/bhavyapopli7)
+Bhavya Popli [@BhavyaPopli](https://github.com/bhavyapopli7) \
 Kartikeya Shankar Mishra [@KartikeyaShankarMishra](https://github.com/Kartikeyasm)
 
 # Getting Started with Create React App
