@@ -1,3 +1,8 @@
+# Author
+
+Bhavya Popli [@BhavyaPopli](https://github.com/bhavyapopli7)
+Kartikeya Shankar Mishra [@KartikeyaShankarMishra](https://github.com/Kartikeyasm)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
